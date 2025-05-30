@@ -72,7 +72,7 @@
 ### ● 인라인 코드
 
 ```markdown
-`print("What is your name?")
+`print("한글도 되나요?")
 ```
 
 ### ● 여러 줄 코드 블록
@@ -132,7 +132,7 @@ def greet():
 - [x] 저장소 초기화  
 - [ ] GitHub 연동  
 - [ ] GitHub Pages 블로그 만들기  
-
+---
 - [x] 업무 밀린거 해결하기 
 - [ ] 제주도 여행 계획 짜기
 ---
